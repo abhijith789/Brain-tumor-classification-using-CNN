@@ -1,0 +1,14 @@
+json
+seaborn
+numpy
+cv2
+os
+pandas
+ZipFile
+tensorflow
+keras
+matplotlib.pyplot
+from keras.models import Sequential,Model
+from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from keras.layers import Input,Dropout, Dense,GlobalAveragePooling2D
